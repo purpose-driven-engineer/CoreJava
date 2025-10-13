@@ -1,6 +1,6 @@
 # To Do
 
-## << -- OOP -->
+## << -- Core Java -->
 
 1. variables - including the use of var
 
@@ -66,7 +66,7 @@
 
 17. immutable class using Record
 
-## <-- Intermediate -->
+## <-- Advanced Core Java -->
 
 1. Collections
 
@@ -84,7 +84,7 @@
 
 8. Functional Programming
 
-## << -- Advanced Java -->>
+## << -- Java Professional Development -->>
 
 1. JDBC
 
@@ -98,7 +98,7 @@
 
 6. Build Tools -> Gradle/Maven
 
-## <-- Extended -->
+## <-- Advanced Software Engineering & System Design -->
 
 1. Design Patterns
 

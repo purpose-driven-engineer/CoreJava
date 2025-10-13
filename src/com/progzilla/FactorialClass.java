@@ -6,5 +6,7 @@ public class FactorialClass {
         Write a program that calculates the factorial of a
         given number using a for loop.
          */
+
+
     }
 }
