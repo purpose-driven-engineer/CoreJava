@@ -27,11 +27,12 @@ public class GradeAnalyzer {
         for (double grade : gradeArray){
             sumOfGrades += grade;
 
+            // check for the minimum and maximum grades
             if (grade > max) max = grade;
             if (grade < min) min = grade;
 
         }
-
+        // Calculate Average
         double average = sumOfGrades / gradeArray.length;
         System.out.println("Average: " + average);
 
