@@ -14,7 +14,7 @@ public class SearchArray {
                 {10, 35, 24, 101,
                 28, 14, 201, 91};
 
-        boolean searchValidator = false;
+        boolean searchValidator = false; // initialise a search validator
         int i;
 
         // accept input from user
@@ -22,13 +22,15 @@ public class SearchArray {
         Scanner scanner = new Scanner(System.in);
         int searchNumber = scanner.nextInt();
 
+        // iterate through the array and validate number's index
         for (i = 0; i < arraysOfNumbers.length; i++) {
             if (searchNumber == arraysOfNumbers[i]) {
-                searchValidator = true;
-                break;
+                searchValidator = true; // validate the search
+                break; // jump out loop once found
             }
         }
 
+        // print out a confirmation
         if (searchValidator) {
             System.out.println("Number " + searchNumber + " was found at index " + i);
         } else {
