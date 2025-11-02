@@ -13,7 +13,7 @@ public class ArrayCopier {
         //... still in progress
 
         int[] copyFrom = {1, 2, 3, 4, 5, 6};
-        int[] copyTo = new int[6];
+        int[] copyTo = new int[copyFrom.length];
 
         // beginner-level method: for loop
         for (int i = 0; i < copyTo.length; i++)
