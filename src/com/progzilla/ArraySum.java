@@ -15,7 +15,7 @@ public class ArraySum {
             // calculate
             total_array += arraySum[i]; // total_array = total_array + arraySum[i]
         }
-        // enhanced for loop
+        // use of enhanced for loop
         for (int arrayNumber : arraySum) {
             total_array += arrayNumber;
         }
