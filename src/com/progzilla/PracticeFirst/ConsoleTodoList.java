@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Menu: (1) Add task, (2) List tasks, (3) Remove task by number, (4) Quit.
  * Store tasks in an ArrayList and let the user manage them.
  */
-public class Project04_ConsoleTodoList {
+public class ConsoleTodoList {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

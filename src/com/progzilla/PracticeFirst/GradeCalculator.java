@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Ask the user how many grades they have, then read each grade. Compute and
  * display the average and a letter grade (e.g. A: 90+, B: 80+, ...).
  */
-public class Project05_GradeCalculator {
+public class GradeCalculator {
 
     /**
      * Returns letter grade based on numeric average.

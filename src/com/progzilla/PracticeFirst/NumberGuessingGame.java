@@ -8,7 +8,7 @@ import java.util.Scanner;
  * The program picks a random number between 1 and 100. The user guesses until
  * they get it right. Give feedback: "too high" or "too low".
  */
-public class Project03_NumberGuessingGame {
+public class NumberGuessingGame {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

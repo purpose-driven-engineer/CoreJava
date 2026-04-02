@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Build a program that asks the user for a temperature and unit (C or F),
  * then converts and displays the result. Try using a method for the conversion.
  */
-public class Project01_TemperatureConverter {
+public class TemperatureConverter {
 
     /**
      * Converts Celsius to Fahrenheit. Formula: F = C * 9/5 + 32

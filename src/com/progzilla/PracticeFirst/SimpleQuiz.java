@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Create a short multiple-choice quiz. Store questions and correct answers,
  * loop through them, and report the score at the end.
  */
-public class Project02_SimpleQuiz {
+public class SimpleQuiz {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
