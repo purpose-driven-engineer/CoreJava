@@ -1,8 +1,6 @@
-package com.progzilla;
+package com.progzilla.PracticeFirst;
 
 import java.util.Arrays;
-
-import static java.lang.System.*;
 
 public class ArrayCopier {
     public static void main(String[] args){

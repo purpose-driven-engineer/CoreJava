@@ -1,4 +1,4 @@
-# To Do
+# Practising Core
 
 ## << -- Core Java -->
 
