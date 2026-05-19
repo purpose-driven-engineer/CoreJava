@@ -11,6 +11,7 @@
 public class WhileLoop {
 
     public static void main(String[] args) {
+
         // --- WHILE: repeat while condition is true ---
         int count = 0;
         while (count < 5) {
